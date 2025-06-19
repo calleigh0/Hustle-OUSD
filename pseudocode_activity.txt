@@ -1,0 +1,21 @@
+Start
+
+1. Grab the clock/ open up the clock
+2. Set the time for the alarm. (AM/PM)
+
+when the alarm rings:
+1. Snooze
+        a. Give 5 more minutes 
+        b. Give 10 more minutes 
+
+        while you have extra time:
+            once time is up:
+
+                a. give 5 more minutes
+                b. give 10 more minutes
+                c. stop the alarm
+
+    c. Stop the alarm 
+
+2. Wake up
+
